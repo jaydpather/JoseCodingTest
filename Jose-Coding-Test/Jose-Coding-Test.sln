@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medtronic-Coding-Test", "Medtronic-Coding-Test\Medtronic-Coding-Test.csproj", "{32C71F0D-A81B-49F2-B07A-60FE031960DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jose-Coding-Test", "Jose-Coding-Test\Jose-Coding-Test.csproj", "{32C71F0D-A81B-49F2-B07A-60FE031960DE}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MainDB", "MainDB\MainDB.sqlproj", "{7FA4DC94-E327-48DE-8711-25E2A770E31F}"
 EndProject
